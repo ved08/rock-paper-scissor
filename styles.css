@@ -1,3 +1,6 @@
+#background{
+    background-color: lightblue;
+}
 #r , #p, #s {
     font-size: 10em;
     cursor: pointer 
